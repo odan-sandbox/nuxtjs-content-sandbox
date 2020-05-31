@@ -46,5 +46,6 @@ export default {
   ** Build configuration
   */
   build: {
-  }
+  },
+  telemetry: false
 }
