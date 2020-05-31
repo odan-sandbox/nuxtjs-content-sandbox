@@ -1,0 +1,17 @@
+{
+    "projectName": "nuxtjscontentsandbox",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "vue",
+        "config": {
+            "SourceDir": ".",
+            "DistributionDir": "dist",
+            "BuildCommand": "yarn export",
+            "StartCommand": "yarn start"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}
